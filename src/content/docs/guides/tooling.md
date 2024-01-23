@@ -1,5 +1,5 @@
 ---
-title: Example Guide
+title: Eines del desenvolupador (tooling)
 description: A guide in my new Starlight docs site.
 ---
 

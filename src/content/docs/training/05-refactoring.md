@@ -1,5 +1,5 @@
 ---
-title: Example Reference
+title: 05. Refactoring
 description: A reference page in my new Starlight docs site.
 ---
 

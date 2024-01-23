@@ -13,19 +13,21 @@ export default defineConfig({
 				}
 			},
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/xarlee-w/ws01-ides',
 			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Guies',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
+						{ label: 'Eines del desenvolupador', link: '/guides/tooling/' },
+						{ label: 'Depuració', link: '/guides/debugging/' },
+						{ label: 'Refactorització', link: '/guides/refactoring/' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Exercicis',
+					autogenerate: { directory: 'training' },
 				},
 			],
 		}),
