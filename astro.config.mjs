@@ -28,7 +28,7 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Exercicis',
+					label: 'Activitats',
 					autogenerate: { directory: 'training' },
 				},
 			],
