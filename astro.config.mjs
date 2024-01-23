@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'M05 UF1 · IDEs 101',
+			title: 'M05 · Entorns de desenvolupament',
 			locales: {
 				root: {
 					label: 'Català',
