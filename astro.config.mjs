@@ -18,7 +18,7 @@ export default defineConfig({
 				github: 'https://github.com/xarlee-w/ws01-ides',
 			},
 			sidebar: [
-				{
+				/*{
 					label: 'Guies',
 					items: [
 						// Each item here is one entry in the navigation menu.
@@ -26,7 +26,7 @@ export default defineConfig({
 						{ label: 'Depuració', link: '/guides/debugging/' },
 						{ label: 'Refactorització', link: '/guides/refactoring/' },
 					],
-				},
+				},*/
 				{
 					label: 'Activitats',
 					autogenerate: { directory: 'training' },
