@@ -5,7 +5,13 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'M05 UF1 · IDEs 101',
+			locales: {
+				root: {
+					label: 'Català',
+					lang: 'ca-ES',
+				}
+			},
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
