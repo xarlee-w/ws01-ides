@@ -3,6 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://xarlee-w.github.io',
+	base: '/ws01-ides',
 	integrations: [
 		starlight({
 			title: 'M05 · Entorns de desenvolupament',
