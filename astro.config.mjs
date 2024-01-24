@@ -31,6 +31,10 @@ export default defineConfig({
 					label: 'Activitats',
 					autogenerate: { directory: 'training' },
 				},
+				{
+					label: 'Recursos',
+					autogenerate: { directory: 'reference' },
+				},
 			],
 		}),
 	],
